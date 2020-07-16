@@ -1,16 +1,20 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=Saketh-Chandra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<!--
-**Saketh-Chandra/Saketh-Chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saketh Chandra 👋 👨‍💻
 
-Here are some ideas to get you started:
+ <img src="https://github-readme-stats.vercel.app/api?username=Saketh-Chandra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working on **Flask and Flutter**
+- <img src="https://img.icons8.com/wired/15/000000/learning.png"/> I’m currently learning **Flutter**
+- <img src="https://img.icons8.com/carbon-copy/20/000000/ask-question.png"/> Ask me about : **_Python_**
+- ⚡ Fun fact : **_I can solve the rubik's cube 2x2, 3x3, 4x4, 5x5, Mirror cube, Pyramid and Megaminx Cube_**
+
+<img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
+<img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
+<img src="https://raw.githubusercontent.com/forem/forem/master/app/assets/images/devplain.svg" width="25"/> [dev.to][dev.to]
+
+
+
+
+[twitter]: https://twitter.com/Saketh_Chandra_
+[linkedin]: https://linkedin.com/in/saketh-chandra/
+[dev.to]: https://dev.to/sakethchandra
