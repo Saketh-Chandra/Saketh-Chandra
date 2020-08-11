@@ -11,7 +11,8 @@
 
 <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
 <img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
-<img src="https://raw.githubusercontent.com/forem/forem/master/app/assets/images/devplain.svg" width="25"/> [dev.to][dev.to]
+<img src="https://raw.githubusercontent.com/forem/forem/master/app/assets/images/devplain.svg" width="25"/> [dev.to][dev.to] **|**
+<img src="https://img.icons8.com/windows/20/000000/hackerrank.png"/>[HackerRank][HackerRank]
 
 
 
@@ -22,3 +23,4 @@
 [twitter]: https://twitter.com/Saketh_Chandra_
 [linkedin]: https://linkedin.com/in/saketh-chandra/
 [dev.to]: https://dev.to/sakethchandra
+[HackerRank]: https://www.hackerrank.com/b_sakethchandra9
