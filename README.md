@@ -13,8 +13,9 @@
 <img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
 <img src="https://raw.githubusercontent.com/forem/forem/master/app/assets/images/devplain.svg" width="25"/> [dev.to][dev.to] **|**
 <img src="https://img.icons8.com/windows/20/000000/hackerrank.png"/>[HackerRank][HackerRank]
-
-
+<!--
+![](https://komarev.com/ghpvc/?username=Saketh-Chandra&label=Profile+Views)
+-->
 
 [rubiks]: https://www.rubiks.com/
 [Flask]: http://flask.pocoo.org/
