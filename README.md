@@ -5,8 +5,8 @@ _A 3rd-year Computer Science and Engineering student. I'm one of the [FACE] exec
 
 
 
-- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working on **[Flask] and [Django]**
-- <img src="https://img.icons8.com/wired/15/000000/learning.png"/> I’m currently learning **[Django], [Google Cloud Platform]**
+- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working on **[Django] and [Qiskit]**
+- <img src="https://img.icons8.com/wired/15/000000/learning.png"/> I’m currently learning **[Django], [Qiskit]**
 - 💬 Ask me about anything [here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - ⚡ Fun fact : **_I can solve the [rubiks] cube 2x2, 3x3, 4x4, 5x5, Mirror cube, Pyramid and Megaminx Cube_**
@@ -20,8 +20,7 @@ _A 3rd-year Computer Science and Engineering student. I'm one of the [FACE] exec
 -->
 
 [rubiks]: https://www.rubiks.com/
-[Flask]: http://flask.pocoo.org/
-[Google Cloud Platform]: https://cloud.google.com
+[Qiskit]: https://qiskit.org/
 [Django]:https://www.djangoproject.com/
 [twitter]: https://twitter.com/Saketh_Chandra_
 [linkedin]: https://linkedin.com/in/saketh-chandra/
