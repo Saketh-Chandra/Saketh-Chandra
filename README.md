@@ -1,4 +1,4 @@
-# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Saketh Chandra 🙋‍♂️  👨‍💻  👨💻
+# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Saketh Chandra 🙋‍♂️  👨‍💻
 
 
 _A 3rd-year Computer Science and Engineering student. I'm one of the [FACE] executives, DSC Technical member, Student at IBM Quantum's QubitxQubit at The Coding School and I'm the part of Amrita ROVER Team ASEB. I mainly focus on projects like Quantum Computing, IoT, Android OS development and Web development using Flask and Django, Problem-Solving and Qiskit. Currently, I'm leaning Quantum Computing using IBM'S Quantum Computer._
