@@ -12,6 +12,9 @@ _A 3rd-year Computer Science and Engineering student. I'm one of the [FACE] exec
 - 💬 Ask me about anything [here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - ⚡ Fun fact : **_I can solve the [rubiks] cube 2x2, 3x3, 4x4, 5x5, Mirror cube, Pyramid and Megaminx Cube_**
+- Favourite editor: PyCharm, Python IDLE
+- First computer: A custom PC with Intel Pentium Processor in 2003
+
 
 <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[Twitter][twitter] **|** 
 <img src="https://img.icons8.com/color/20/000000/linkedin.png"/>[Linkedin][linkedin] **|** 
