@@ -28,7 +28,7 @@ _A 3rd-year Computer Science and Engineering student who is an active member of 
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+<img src="https://profile-counter.glitch.me/Saketh-Chandra/count.svg" />
 </p>
 <!--
 ![](https://komarev.com/ghpvc/?username=Saketh-Chandra&label=Profile+Views)
