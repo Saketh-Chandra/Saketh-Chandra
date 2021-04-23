@@ -30,6 +30,13 @@ _A 3rd-year Computer Science and Engineering student who is an active member of 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/Saketh-Chandra/count.svg" />
 </p>
+
+### Covid-19
+<img src="https://21673.wayscript.io/card/?country=India&state=" />
+
+### Wear a mask 😷. Help slow the spread of COVID-19
+
+
 <!--
 ![](https://komarev.com/ghpvc/?username=Saketh-Chandra&label=Profile+Views)
 -->
