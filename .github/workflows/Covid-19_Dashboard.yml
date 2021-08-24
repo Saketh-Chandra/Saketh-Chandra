@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute main.py # run main.py <Country> <State>
-        run: python main.py India
+        run: python Covid-19_Dashboard/main.py India
           
       - name: commit files
         run: |
