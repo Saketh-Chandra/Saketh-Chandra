@@ -32,7 +32,7 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 </p>
 
 ### Covid-19
-<img src="https://21673.wayscript.io/card/?country=India&state=" />
+<img src="https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg" />
 
 ### Wear a mask 😷. Help slow the spread of COVID-19
 
