@@ -48,7 +48,7 @@ _Recovered = dfRecovered.loc[(dfRecovered['Country/Region'] == _Country) & (dfRe
 
 Recovered = _Recovered.to_numpy()
 
-template = Template(open('Covid-19_SVG_Template.svg').read())
+template = Template(open('Covid-19_Dashboard/Covid-19_SVG_Template.svg').read())
 out = template.render(Country=_Country, State=_State, index=str(_index[-1]), data_c=f"{int(Confirmed[0][-1]):,d}",
                       data_r=f"{int(Recovered[0][-1]):,d}",
                       data_d=f"{int(Deaths[0][-1]):,d}")
