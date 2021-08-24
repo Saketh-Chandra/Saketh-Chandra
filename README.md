@@ -32,7 +32,10 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 </p>
 
 ### Covid-19
-<img src="https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg" />
+[![COVID-19_Dashboard](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml/badge.svg)](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml)
+
+<!--img src="https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg" /-->
+[![Covid-19 India](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)
 
 ### Wear a mask 😷. Help slow the spread of COVID-19
 
