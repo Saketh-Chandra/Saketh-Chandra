@@ -53,5 +53,5 @@ out = template.render(Country=_Country, State=_State, index=str(_index[-1]), dat
                       data_r=f"{int(Recovered[0][-1]):,d}",
                       data_d=f"{int(Deaths[0][-1]):,d}")
 
-with open("Covid-19.svg", "w") as outfile:
+with open("Covid-19_Dashboard/Covid-19.svg", "w") as outfile:
     outfile.write(out)
