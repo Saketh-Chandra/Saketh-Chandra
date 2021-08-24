@@ -2,7 +2,7 @@ name: Covid-19_Dashboard
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # '0 */8 * * *' # runs at every 8 hours
+    - cron: '*/2 * * * *' # '0 */8 * * *' # runs at every 8 hours
 
 jobs:
   build:
