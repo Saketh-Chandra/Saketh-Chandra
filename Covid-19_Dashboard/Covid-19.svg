@@ -2,9 +2,9 @@
     SVG Source Code: https://github.com/anuraghazra/github-readme-stats
 -->
 <svg
-        width="510"
-        height="210"
-        viewBox="0 0 510 210"
+        width="242"
+        height="150"
+        viewBox="0 0 242 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
 >
@@ -164,7 +164,7 @@
                         x="25"
                         y="15"
                         class="small_stat"
-                >Last Updated: Wed 25-Aug-21, 00:37 UTC
+                >Last Updated: Wed 25-Aug-21, 01:46 UTC
                 </text>
             </g>
         </svg>
