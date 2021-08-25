@@ -2,7 +2,9 @@ name: COVID-19_Dashboard
 
 on:
   schedule:
-    - cron: '15 */8 * * *' # runs at every 8 hours
+    - cron: '0 */1 * * *' # runs at every 1 hours
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   build:
