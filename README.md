@@ -17,7 +17,7 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 - 💬 Ask me about anything [here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - ⚡ Fun fact : **_I can solve the [rubiks] cube 2x2, 3x3, 4x4, 5x5, Mirror cube, Pyramid and Megaminx Cube_**
-- :star: Favourite editor: PyCharm, Python IDLE
+- ⭐ Favourite editor: PyCharm, Python IDLE
 - 🖥 First computer: A custom PC with Intel Pentium Processor in 2003
 
 
