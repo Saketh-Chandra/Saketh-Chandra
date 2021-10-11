@@ -12,7 +12,7 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 
 
 
-- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working with **[Django] and [Qiskit], QuantumRNG**
+- <img src="https://img.icons8.com/cotton/25/000000/relaxed-working-with-a-laptop--v1.png"/> I’m currently working with **[Django] and [Qiskit], [QuantumRNG]**
 - <img src="https://img.icons8.com/wired/15/000000/learning.png"/> I’m currently learning **[Django], [Docker], [Qiskit]**
 - 💬 Ask me about anything [here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
 - 📫 How to reach me: [Post here](https://github.com/Saketh-Chandra/Saketh-Chandra/issues)
@@ -92,3 +92,4 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 [IBM'S Quantum Computer]: https://quantum-computing.ibm.com/
 [QubitxQubit at The Coding School]: https://www.qubitbyqubit.org/
 [Docker]:https://www.docker.com/
+[QuantumRNG]:https://pypi.org/project/QuantumRNG/
