@@ -134,18 +134,8 @@
                     </text>
                 </g>
             </g>
-            <g transform="translate(0, 25)">
-                <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
 
-                    <text class="stat bold" y="12.5">Recovered :</text>
-                    <text
-                            class="stat"
-                            x="100"
-                            y="12.5"
-                    >0
-                    </text>
-                </g>
-            </g>
+            
             <g transform="translate(0, 50)">
                 <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
 
@@ -164,7 +154,7 @@
                         x="25"
                         y="15"
                         class="small_stat"
-                >Last Updated: Sat 11-Dec-21, 12:07 UTC
+                >Last Updated: Sat 11-Dec-21, 23:01 UTC
                 </text>
             </g>
         </svg>
