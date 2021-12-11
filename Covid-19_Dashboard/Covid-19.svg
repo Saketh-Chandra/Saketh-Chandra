@@ -122,6 +122,7 @@
     >
 
         <svg x="0" y="0">
+              <!-- Show the value only if Confirmed are greater then 0 -->
             <g transform="translate(0, 0)">
                 <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
 
@@ -134,8 +135,11 @@
                     </text>
                 </g>
             </g>
+            
 
             
+
+             <!-- Show the value only if Deaths are greater then 0 -->
             <g transform="translate(0, 50)">
                 <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
 
@@ -148,13 +152,13 @@
                     </text>
                 </g>
             </g>
-
+            
             <g transform="translate(0, 70)">
                 <text
                         x="25"
                         y="15"
                         class="small_stat"
-                >Last Updated: Sat 11-Dec-21, 23:01 UTC
+                >Last Updated: Sat 11-Dec-21, 23:43 UTC
                 </text>
             </g>
         </svg>
