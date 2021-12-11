@@ -2,9 +2,9 @@
     SVG Source Code: https://github.com/anuraghazra/github-readme-stats
 -->
 <svg
-        width="510"
-        height="210"
-        viewBox="0 0 510 210"
+        width="242"
+        height="150"
+        viewBox="0 0 250 155"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
 >
@@ -110,7 +110,7 @@
                     x="0"
                     y="0"
                     class="header"
-            >India, - 8/23/21
+            >India, - 12/10/21
             </text>
         </g>
     </g>
@@ -130,7 +130,7 @@
                             class="stat"
                             x="100"
                             y="12.5"
-                    >32,474,773
+                    >34,682,633
                     </text>
                 </g>
             </g>
@@ -154,7 +154,7 @@
                             class="stat"
                             x="100"
                             y="12.5"
-                    >435,110
+                    >474,872
                     </text>
                 </g>
             </g>
@@ -164,7 +164,7 @@
                         x="25"
                         y="15"
                         class="small_stat"
-                >Last Updated: Tue 24-Aug-21, 15:55 UTC
+                >Last Updated: Sat 11-Dec-21, 12:07 UTC
                 </text>
             </g>
         </svg>
