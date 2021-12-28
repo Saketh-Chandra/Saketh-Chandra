@@ -1,5 +1,17 @@
 ![Covid-19 png](https://www.leaders-in-law.com/wp-content/uploads/2020/03/COVID-19.png)
 
+## :bulb: This is a subproject of [Covid-19_website](https://github.com/Saketh-Chandra/Covid-19_website)
+
+### Covid-19 Dashboard
+[![COVID-19_Dashboard](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml/badge.svg)](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml)
+
+<!--img src="https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg" /-->
+[![Covid-19 India](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)
+#### *This will automatically update every 12 hours using GitHub's actions.
+
+
+### Wear a mask 😷. Help slow the spread of COVID-19
+
 ## Data Source for the project:
 The data source for our project is provided by the Center for Systems Science and Engineering
 (CSSE) at Johns Hopkins University. The main reason for obtaining the data from them is they
@@ -8,16 +20,6 @@ information regarding the number of COVID-19 cases registered, number of recover
 of deaths from authenticated and reliable sources like World Health Organization (WHO),
 European Centre for Disease Prevention and Control (ECDC) etc. 
 ## [Thanks for CSSEGISandData for providing COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)
-
-## :bulb: This is a subproject of [Covid-19_website](https://github.com/Saketh-Chandra/Covid-19_website)
-
-### Covid-19 Dashboard
-[![COVID-19_Dashboard](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml/badge.svg)](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml)
-
-<!--img src="https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg" /-->
-[![Covid-19 India](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)](https://raw.githubusercontent.com/Saketh-Chandra/Saketh-Chandra/master/Covid-19_Dashboard/Covid-19.svg)
-
-### Wear a mask 😷. Help slow the spread of COVID-19
 
 #### GitHub Actions: [Main_Covid-19_Dashboard.yml](https://github.com/Saketh-Chandra/Saketh-Chandra/blob/master/.github/workflows/Main_Covid-19_Dashboard.yml) file
 
