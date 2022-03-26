@@ -31,7 +31,7 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+            src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"
             alt="django" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -55,6 +55,8 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
+            <a href="https://qiskit.org/"><img alt="Qiskit" src="https://qiskit.org/images/qiskit-logo.png" width="40" /></a>
+            <a href="https://azure.microsoft.com/en-us/services/quantum/"><img alt="Qiskit" src="https://raw.githubusercontent.com/MicrosoftDocs/quantum-docs/main/articles/media/azure-quantum-logo-trans.png" height="40"/></a>
 </p>
 
 
