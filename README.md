@@ -70,6 +70,9 @@ _A 4th-year Computer Science and Engineering student who is an active member of 
 <img src="https://profile-counter.glitch.me/Saketh-Chandra/count.svg" />
 </p>
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Saketh-Chandra)
+
+
 ### Covid-19
 [![COVID-19_Dashboard](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml/badge.svg)](https://github.com/Saketh-Chandra/Saketh-Chandra/actions/workflows/Main_Covid-19_Dashboard.yml)
 
