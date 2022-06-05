@@ -2,7 +2,7 @@
 $ whoami
 ```
 
-# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Saketh Chandra 🙋‍♂️  👨‍💻
+# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" alt="HI"> This is Saketh Chandra 🙋‍♂️  👨‍💻
 
 
 _A 4th-year Computer Science and Engineering student who is an active member of the [FACE] executives and Google DSC-ASEB Technical., also Student at IBM Quantum's [QubitxQubit at The Coding School], Contributed to Amrita ROVER Team ASEB. Main contributions are projects in  Quantum Computing, IoT, Android OS development and Web development using Flask and Django, Problem-Solving and [Qiskit]. Currently, learning Quantum Computing using [IBM'S Quantum Computer]._
