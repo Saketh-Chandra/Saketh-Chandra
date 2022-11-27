@@ -38,31 +38,29 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+        with:
+            repository: Saketh-Chandra/Saketh-Chandra
+
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8.11' # install the python version needed
-          
+          python-version: '3.8' # install the python version needed
+
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
+
       - name: execute main.py # run main.py <Country> <State>
         run: python Covid-19_Dashboard/main.py India
-          
-      - name: commit files
+
+      - name: commit files and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "update Covid-19_Dashboard" -a
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets._TOKEN }}
-          branch: master 
+          git push
 ```
