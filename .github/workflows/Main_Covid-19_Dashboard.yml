@@ -13,6 +13,9 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner
+        with:
+            token: ${{ secrets._TOKEN }}
+
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -27,15 +30,10 @@ jobs:
       - name: execute main.py # run main.py <Country> <State>
         run: python Covid-19_Dashboard/main.py India
 
-      - name: commit files
+      - name: commit files and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "update Covid-19_Dashboard" -a
-
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets._TOKEN }}
-          branch: master
+          git push
