@@ -1,6 +1,6 @@
 # Hi there, I'm Saketh Chandra 👋
 
-**AI Software Engineer | 4+ Years Experience | Building Production AI Systems & Developer Tools**
+**AI Software Engineer @ AMD | 4+ Years Experience | AI Systems & Developer Tools**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saketh-chandra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/Saketh-Chandra)
@@ -9,9 +9,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Full-Stack AI Software Engineer** with 4+ years of experience at **Honeywell**, where I build production-grade AI systems and internal developer tools that serve hundreds of engineering teams globally.
+<p>
+  I'm a <strong>Full-Stack AI Software Engineer</strong> currently at
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://cdn.simpleicons.org/amd/FFFFFF">
+    <img src="https://cdn.simpleicons.org/amd/000000"
+         alt="AMD"
+         width="48"
+         style="vertical-align: middle; margin: 0 0 0 2px;"/>
+  </picture>,
+  with 4+ years of experience building production-grade AI systems and
+  internal developer tools. Previously at <strong>Honeywell</strong>,
+  I developed solutions that served hundreds of engineering teams globally.
+</p>
+
 
 - 🔭 **Currently:** Software Development Engineer 2 (SD2) at Honeywell, leading AI agent development and full-stack engineering
 - 🎯 **Expertise:** GenAI/LLM Systems, Multi-Agent Orchestration, RAG Architecture, Full-Stack Development, Backend Systems
