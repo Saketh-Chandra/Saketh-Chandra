@@ -1,6 +1,6 @@
 # Hi there, I'm Saketh Chandra 👋
 
-**AI Software Engineer @ AMD | 4+ Years Experience | AI Systems & Developer Tools**
+**Sr AI Software Engineer @ AMD | 4+ Years Experience | AI Systems & Developer Tools**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saketh-chandra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/Saketh-Chandra)
@@ -27,11 +27,10 @@
 </p>
 
 
-- 🔭 **Currently:** Software Development Engineer 2 (SD2) at Honeywell, leading AI agent development and full-stack engineering
+- 🔭 **Currently:** Sr AI Software Engineer at AMD (since June 2026), leading AI agent development and full-stack engineering
 - 🎯 **Expertise:** GenAI/LLM Systems, Multi-Agent Orchestration, RAG Architecture, Full-Stack Development, Backend Systems
 - 🏆 **Impact:** Reduced incident resolution time by 60%, automated 10,435+ code defects, saved 1,000+ engineering hours annually
 - 🌱 **Learning:** Advanced AI agent architectures, LLMOps, and distributed systems at scale
-- 💼 **Open to:** AI/ML Engineering, Full-Stack Engineering, and Senior Backend Engineering roles
 - 🎓 **Education:** B.Tech in Computer Science & Engineering, Amrita University (2022)
 
 ---
@@ -65,7 +64,7 @@
 
 ## 🏆 Key Achievements
 
-### **At Honeywell (2022 - Present)**
+### **At Honeywell (2022 - 2026)**
 
 #### **🤖 AI & Automation**
 - **Multi-Agent SRE System**: Architected autonomous AI system processing 1,000+ monthly alerts across 3 regions, reducing P1/P2 incident resolution by **60%**
@@ -183,18 +182,6 @@ Amrita School of Engineering, Bengaluru | Aug 2018 - May 2022
 - **Google DSC-ASEB** - Technical Member (Sept 2020 - July 2021)
 - **Amrita ROVER Team** - Software Engineer Lead (Jan 2020 - 2021)  
   _Led Rover Internal Servers and Ground Station development; Team ranked 6th at IRDC 2020_
-
----
-
-## 💼 Currently Seeking Opportunities
-
-I'm actively exploring opportunities in:
-- **AI/ML Engineering** - LLM applications, agent systems, RAG architectures
-- **Full-Stack Engineering** - Internal tools, web applications, developer productivity
-- **Senior Backend Engineering** - Distributed systems, microservices, APIs
-- **Software Engineering** - Production systems, scalable applications, automation
-
-**Location:** Bengaluru, India | Open to Remote & Relocation
 
 ---
 
